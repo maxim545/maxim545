@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋. I'm Maxim
 
+https://www.codewars.com/users/maxim545/badges/large
 <!--
 **maxim545/maxim545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
