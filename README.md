@@ -1,11 +1,11 @@
 ### Hi👋. My name is Maxim, and i'm junior frontend developer.
 
-
+---
 
 ### About Me :
 - Participant of Front-end/JavaScript (RS School) course 💻
 
----
+
 
 ### Codewars:
 <br/>[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
