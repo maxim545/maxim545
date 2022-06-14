@@ -1,6 +1,6 @@
 ### Hi👋. My name is Maxim, and i'm junior frontend developer.
 
-[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
+
 
 ### About Me :
 - Participant of Front-end/JavaScript (RS School) course 💻
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop"  alt="photoshop" width="auto" height="40"/>&nbsp;
 </div>
 <br/>
-
+[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
 ---
 <!--
 **maxim545/maxim545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
