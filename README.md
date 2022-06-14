@@ -6,8 +6,7 @@
 - Participant of Front-end/JavaScript (RS School) course 💻
 
 ### Codewars:
-<br/>
-[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
+<br/>[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
 
 ### Languages and Tools:
 <br/>
