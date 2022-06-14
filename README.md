@@ -5,6 +5,10 @@
 ### About Me :
 - Participant of Front-end/JavaScript (RS School) course 💻
 
+### Codewars:
+<br/>
+[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
+
 ### Languages and Tools:
 <br/>
 <div>
@@ -23,7 +27,7 @@
 <br/>
 
 ---
-[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
+
 <!--
 **maxim545/maxim545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
