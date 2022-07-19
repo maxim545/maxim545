@@ -8,7 +8,7 @@
 
 
 ### Codewars:
-<br/>[<img src="https://www.codewars.com/users/maxim545/badges/large">](https://www.codewars.com/)
+<br/>[<img src="https://www.codewars.com/users/rsschool_maxim545/badges/large">](https://www.codewars.com/)
 
 ### Languages and Tools:
 <br/>
