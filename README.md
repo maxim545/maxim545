@@ -1,4 +1,4 @@
-### Hi👋. My name is Maxim, and i'm junior frontend developer.
+### Hi👋. My name is Maxim, and i'm frontend developer.
 
 ---
 
